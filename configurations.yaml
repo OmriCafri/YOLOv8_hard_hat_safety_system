@@ -1,0 +1,16 @@
+# path for the data yaml file
+data_yaml_path: D:\projects\hard_hat_safety_system_YOLOv8\data\hard_hat_dataset\data.yaml
+
+# path for the best model weights file
+production_model: D:\projects\hard_hat_safety_system_YOLOv8\production_model\best.pt
+
+# firebase authentication json
+firebase_creds: D:\projects\hard_hat_safety_system_YOLOv8\firebase_manager\creds\firebase_creds.json
+
+# Name of the monitored space
+collection_name: Office
+
+# Path for saving violation images
+violations_path: D:\projects\hard_hat_safety_system_YOLOv8\camera\violations\
+
+
