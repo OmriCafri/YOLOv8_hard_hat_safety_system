@@ -8,7 +8,6 @@ The project has two main components:
 ![alt text](https://github.com/OmriCafri/YOLOv8_hard_hat_safety_system/blob/master/inference_results.png?raw=true)
 ## Installation
 
-## Installation
 
 First download the project to your local machine.
 
