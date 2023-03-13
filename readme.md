@@ -14,7 +14,7 @@ First download the project to your local machine.
 Run the following command for installing dependencies.
 
 ```bash
-pip install -r requirements
+pip install -r requirements.txt
 ```
 
 You might need to install cudatoolkit (For inference on GPU ).
